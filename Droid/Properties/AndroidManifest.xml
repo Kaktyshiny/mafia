@@ -3,4 +3,5 @@
 	<uses-sdk android:minSdkVersion="15" />
 	<application android:label="Mafia">
 	</application>
+	<apl>
 </manifest>
